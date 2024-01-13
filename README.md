@@ -1,4 +1,4 @@
-**Job Hiring Portal - Proposal**
+﻿# <a name="_khu82qlpyqzn"></a>**Job Hiring Portal - Proposal**
 In the ever-thriving employment industry, it is always necessary to keep developing
 efficient and user-friendly job hiring platforms. Our primary goal is to create a
 comprehensive web-based Job Hiring Platform, aimed at reducing the gap between
